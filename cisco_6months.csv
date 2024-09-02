@@ -1,4 +1,4 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 1290,Convert Binary Number in a Linked List to Integer,80.4%,Easy,0.06956650156993308, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
 1235,Maximum Profit in Job Scheduling,44.0%,Hard,0.06732797308883445, https://leetcode.com/problems/maximum-profit-in-job-scheduling
 909,Snakes and Ladders,38.4%,Medium,0.06217455073507972, https://leetcode.com/problems/snakes-and-ladders
@@ -23,4 +23,4 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 8,String to Integer (atoi),15.4%,Medium,0.0037925521897059712, https://leetcode.com/problems/string-to-integer-atoi
 102,Binary Tree Level Order Traversal,54.6%,Medium,0.003639014205004082, https://leetcode.com/problems/binary-tree-level-order-traversal
 3,Longest Substring Without Repeating Characters,30.4%,Medium,0.003496778759264278, https://leetcode.com/problems/longest-substring-without-repeating-characters
-20,Valid Parentheses,39.0%,Easy,0.0023005704055949323, https://leetcode.com/problems/valid-parentheses
+20,Valid Parentheses,39.0%,Easy,0.0023005704055949323, https://leetcode.com/problems/valid-parentheses,Done
